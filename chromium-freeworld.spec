@@ -15,7 +15,7 @@
 %global __provides_exclude_from %{chromiumdir}/.*\\.so
 #######################################CONFIGS###########################################
 # System libraries to use.
-%global system_ffmpeg 1
+%global system_ffmpeg 0
 %global system_harfbuzz 1
 %global system_libicu 0
 %global system_libvpx 0
